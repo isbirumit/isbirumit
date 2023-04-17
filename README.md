@@ -2,7 +2,8 @@
 
 <!--
 **isbirumit/isbirumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
+I'm **Umit**! I'm the kind of person who doesn't give up until I've accomplished what I set out to do. I'm a hard-working nerd who loves to learn new things and push myself to be the best I can be. Whether it's coding in a new language or mastering a complex project, I'm always up for a challenge. I've been known to pull all-nighters to get the job done, but I also know how to have fun and relax. In my free time,...I don't have free time🤔. If you're looking for someone who's passionate, dedicated, and always willing to go the extra mile, I'm your guy!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
